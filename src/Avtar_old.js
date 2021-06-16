@@ -38,6 +38,11 @@ const Avtar = (props) => {
       name: "Nitin Kumar",
       work: "UI/UX Developer",
     },
+    {
+      id: 5,
+      name: "John",
+      work: "Full Stack",
+    },
   ];
 
   //  name={avtartArrayListi[0].name}  this is destructing
