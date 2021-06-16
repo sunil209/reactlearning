@@ -1,0 +1,15 @@
+.main_wrap {
+  margin: 0 auto;
+  max-width: 1440px;
+  width: 100%;
+  text-align: center;
+}
+
+.cartInfo {
+  width: calc(25% - 4rem);
+  background-color: silver;
+  padding: 20px;
+}
+.cartInfo img {
+  width: 100%;
+}
